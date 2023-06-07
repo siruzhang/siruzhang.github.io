@@ -1,1 +1,1 @@
-# Research in Computer Vision, Video Compression.
+Research in Computer Vision, Video Compression.
